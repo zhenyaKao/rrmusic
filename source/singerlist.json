@@ -1,0 +1,287 @@
+[
+  {
+    "name":"LYUBE",
+    "info":" Russian rock band from Lyubertsy, a city in Moscow Oblast. Lyube's music is a mixture of several genres, with influences from both Russian folk music, rock, Russian chanson, and Soviet military songs. The band was founded in 1989, and since then have released sixteen albums. Lyube's producer and main songwriter is Igor Matviyenko.",
+    "singer":"./images/01/singer.png",
+    "singer_photo":"./images/01/singer_photo.jpg",
+    "background":"./images/01/background.jpg",
+    "music":[
+      {
+      "song_album":"Комбат",
+      "song_name":"Комбат",
+      "song_time":"05:06",
+      "song_url":"./source/01/music1.mp3"
+      },
+      {
+      "song_album":"А зори здесь тихие",
+      "song_name":"А зори здесь тихие тихие",
+      "song_time":"03:35",
+      "song_url":"./source/01/music2.mp3"
+      },
+      {
+      "song_album":"Кто сказал ,что мы плохо жили",
+      "song_name":"Не валяй дурака, Америка",
+      "song_time":"03:29",
+      "song_url":"./source/01/music3.mp3"
+      },
+      {
+      "song_album":"Рассея",
+      "song_name":"Гимн России",
+      "song_time":"03:26",
+      "song_url":"./source/01/music4.mp3"
+      },
+      {
+      "song_album":"Ребят нашего полка",
+      "song_name":"На братских могилах",
+      "song_time":"02:31",
+      "song_url":"./source/01/music5.mp3"
+      }
+    ]
+  },
+  {
+    "name":"КИНО",
+    "info":"Kino was a Soviet rock band formed in Leningrad in 1982. The band was co-founded and headed by Viktor Tsoi, who wrote the music and lyrics for almost all of the band's songs. Over the course of eight years, Kino had released over 90 songs spanning over seven studio albums, as well as releasing a few compilations and live albums. The band's music was also widely circulated in the form of bootleg recordings.",
+    "singer":"./images/02/singer.png",
+    "singer_photo":"./images/02/singer_photo.jpg",
+    "background":"./images/02/background.jpg",
+    "music":[
+      {
+      "song_album":"Black Album",
+      "song_name":"Кукушка",
+      "song_time":"06:48",
+      "song_url":"./source/02/music1.mp3"
+      },
+      {
+      "song_album":"Последний герой",
+      "song_name":"Троллейбус",
+      "song_time":"02:56",
+      "song_url":"./source/02/music2.mp3"
+      },
+      {
+      "song_album":"Группа крови",
+      "song_name":"Троллейбус",
+      "song_time":"03:59",
+      "song_url":"./source/02/music3.mp3"
+      },
+      {
+      "song_album":"Звезда по имени Солнце",
+      "song_name":"Пачка сигарет",
+      "song_time":"04:29",
+      "song_url":"./source/02/music4.mp3"
+      },
+      {
+      "song_album":"45",
+      "song_name":"Бездельник",
+      "song_time":"03:13",
+      "song_url":"./source/02/music5.mp3"
+      }
+    ]
+  },
+  {
+    "name":"LENINGRAD",
+    "info":"Composed of 14 members, the band was founded in the late 1990s. Leningrad worked in Gypsy punk style and soon became notorious for vulgar lyrics (including lots of Russian mat) and celebration of drinking. As a result, most radio stations initially avoided the band, which did not stop Leningrad's growing popularity, partly for purely aesthetic reasons, such as the rich brass sound.",
+    "singer":"./images/03/singer.png",
+    "singer_photo":"./images/03/singer_photo.jpg",
+    "background":"./images/03/background.jpg",
+    "music":[
+      {
+      "song_album":"Кольщик",
+      "song_name":"Кольщик",
+      "song_time":"03:56",
+      "song_url":"./source/03/music1.mp3"
+      },
+      {
+      "song_album":"Для миллионов",
+      "song_name":"Меня зовут Шнур",
+      "song_time":"2:42",
+      "song_url":"./source/03/music2.mp3"
+      },
+      {
+      "song_album":"Экспонат",
+      "song_name":"Экспонат",
+      "song_time":"3:50",
+      "song_url":"./source/03/music3.mp3"
+      },
+      {
+      "song_album":"Для миллионов",
+      "song_name":"Хуямба",
+      "song_time":"2:10",
+      "song_url":"./source/03/music4.mp3"
+      },
+      {
+      "song_album":"Вояж",
+      "song_name":"Вояж",
+      "song_time":"3:39",
+      "song_url":"./source/03/music5.mp3"
+      }
+    ]
+  },
+  {
+    "name":"АРИЯ",
+    "info":"A Russian heavy metal band that was formed in 1985 in Moscow. Although it was not the first Soviet band to play heavy music, Aria was the first to break through to mainstream media and commercial success. According to several public polls, Aria ranks among top 10 most popular Russian rock bands. Their sound resembled that of NWOBHM bands, for which they were dubbed the \"Russian Iron Maiden\" in the media.",
+    "singer":"./images/04/singer.png",
+    "singer_photo":"./images/04/singer_photo.jpg",
+    "background":"./images/04/background.jpg",
+    "music":[
+      {
+      "song_album":"Проклятье морей",
+      "song_name":"Варяг",
+      "song_time":"06:43",
+      "song_url":"./source/04/music1.mp3"
+      },
+      {
+      "song_album":"Проклятье морей",
+      "song_name":"Убить Дракона",
+      "song_time":"05:55",
+      "song_url":"./source/04/music2.mp3"
+      },
+      {
+      "song_album":"Феникс",
+      "song_name":"Чёрный Квадрат",
+      "song_time":"05:20",
+      "song_url":"./source/04/music3.mp3"
+      }
+    ]
+  },
+  {
+    "name":"DDT",
+    "info":"A popular Russian rock band founded by its lead singer and the only remaining original member, Yuri Shevchuk (Юрий Шевчук), in Ufa (Bashkir ASSR, RSFSR) in 1980. Named after the pesticide DDT, they are one of the better known and most prolific Russian bands of the late 20th and early 21st centuries.",
+    "singer":"./images/05/singer.png",
+    "singer_photo":"./images/05/singer_photo.jpg",
+    "background":"./images/05/background.jpg",
+    "music":[
+      {
+      "song_album":"Это всё...",
+      "song_name":"Это всё...",
+      "song_time":"07:49",
+      "song_url":"./source/05/music1.mp3"
+      },
+      {
+      "song_album":"Туман",
+      "song_name":"Прозрачный",
+      "song_time":"04:21",
+      "song_url":"./source/05/music2.mp3"
+      },
+      {
+      "song_album":"Иначе",
+      "song_name":"Родившимся этой ночью",
+      "song_time":"05:25",
+      "song_url":"./source/05/music3.mp3"
+      }
+    ]
+  },
+  {
+    "name":"AELLA",
+    "info":"The AELLA band was founded in January 7, 2008, when six girls headed by the director and composer Alex Martin decided to take the name \"Aella\". It accurately reflects the essence of the team. Aella is a name one of the five harpies of Greek mythology. Girls began their career as a cover project, performing best songs of such groups as the Rainbow, Royal Hunt, Helloween, Yngwie Malmsteen etc. However, not long in coming their own material.",
+    "singer":"./images/06/singer.png",
+    "singer_photo":"./images/06/singer_photo.jpg",
+    "background":"./images/06/background.jpg",
+    "music":[
+      {
+      "song_album":"Четвёртая высота",
+      "song_name":"Пустыня",
+      "song_time":"04:35",
+      "song_url":"./source/06/music1.mp3"
+      },
+      {
+      "song_album":"Ребят нашего полка",
+      "song_name":"Алые Паруса",
+      "song_time":"03:25",
+      "song_url":"./source/06/music2.mp3"
+      }
+    ]
+  },
+  {
+    "name":"БИ-2",
+    "info":"The band was formed in 1985 in Minsk, Belarus by two teenagers, Aleksandr \"Shura\" Uman and Egor \"Lyova\" Bortnik, who were amateur actors. Initially, the band's name was \"Bratya po Oruzhiyu\" (Brothers in Arms), which was formed in 1988, then \"Bereg Istini\" (Shore of Truth), which resulted in abbreviation BI-2. This word Lyova and Shura begun to use as their scenic names, and Shura eventually changed his passport surname to Bi-II.",
+    "singer":"./images/07/singer.png",
+    "singer_photo":"./images/07/singer_photo.jpg",
+    "background":"./images/07/background.jpg",
+    "music":[
+      {
+      "song_album":"Мяу Кисс Ми",
+      "song_name":"Мой рок-н-ролл",
+      "song_time":"06:45",
+      "song_url":"./source/07/music1.mp3"
+      },
+      {
+      "song_album":"Fellini Tour",
+      "song_name":"Серебро",
+      "song_time":"02:31",
+      "song_url":"./source/07/music2.mp3"
+      },
+      {
+      "song_album":"Лайки / Алиса",
+      "song_name":"Лайки",
+      "song_time":"02:31",
+      "song_url":"./source/07/music3.mp3"
+      },
+      {
+      "song_album":"Тёмные небеса",
+      "song_name":"Тёмные небеса",
+      "song_time":"04:28",
+      "song_url":"./source/07/music4.mp3"
+      },
+      {
+      "song_album":"Варвара",
+      "song_name":"Брат2 OST",
+      "song_time":"04:57",
+      "song_url":"./source/07/music5.mp3"
+      }
+    ]
+  },
+  {
+    "name":"АРКОНА",
+    "info":"Arkona is a Russian folk metal band. Their lyrics are heavily influenced by Russian folklore and Slavic mythology, and their music incorporates several traditional Russian musical instruments. The name of the band \"Arkona\" refers to the last Pre-Christianized Slavic city-castle. Their singer and songwriter, Maria \"Masha Scream\" Arkhipova, is one of relatively few successful female vocalists to sing in a death growl style. ",
+    "singer":"./images/08/singer.png",
+    "singer_photo":"./images/08/singer_photo.jpg",
+    "background":"./images/08/background.jpg",
+    "music":[
+      {
+      "song_album":"Goi, Rode, Goi",
+      "song_name":"Yarilo",
+      "song_time":"02:31",
+      "song_url":"./source/08/music1.mp3"
+      },
+      {
+      "song_album":"Decade of Glory",
+      "song_name":"Slavsia, Rus",
+      "song_time":"03:58",
+      "song_url":"./source/08/music2.mp3"
+      },
+      {
+      "song_album":"Goi, Rode, Goi!",
+      "song_name":"Goi, Rode, Goi!",
+      "song_time":"03:29",
+      "song_url":"./source/08/music3.mp3"
+      }
+    ]
+  },
+  {
+    "name":"NIGHT SNIPERS",
+    "info":" It was founded in 1993 as an acoustic female duo of Diana Arbenina and Svetlana Surganova. The ladies played guitar and violin respectively, sharing the vocal and songwriting duties evenly, eventually adding amplification to the band. Since its inception the band has participated in a variety of Russian musical festivals — from the underground to the major events as well as touring extensively domestically and abroad.",
+    "singer":"./images/09/singer.png",
+    "singer_photo":"./images/09/singer_photo.jpg",
+    "background":"./images/09/background.jpg",
+    "music":[
+      {
+      "song_album":"Армия 2009",
+      "song_name":"Прекрасных дней",
+      "song_time":"04:24",
+      "song_url":"./source/09/music1.mp3"
+      },
+      {
+      "song_album":"Only lovers will survive",
+      "song_name":"этонемне",
+      "song_time":"03:15",
+      "song_url":"./source/09/music2.mp3"
+      },
+      {
+      "song_album":"Only lovers will survive",
+      "song_name":"История",
+      "song_time":"03:44",
+      "song_url":"./source/09/music3.mp3"
+      }
+    ]
+  }
+]

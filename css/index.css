@@ -1,0 +1,333 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "HelveticaNeue"
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  overflow:hidden;
+  background-color: #fff4f4;
+}
+
+body>span{
+  position:absolute;
+  right:0;
+  width: 20px;
+  height: 20px;
+  background-color: #fff4f4;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-right: 5px;
+  color:#D62828;
+  user-select: none;
+  cursor: help;
+}
+
+body>.help{
+  position:absolute;
+  padding: 5px 15px;
+  right:30px;
+  background-color: #fff4f4;
+  width:250px;
+  height:60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  display: none;
+}
+
+body> .help>p{
+  font-weight:bolder;
+  font-size: 8px;
+}
+
+section > .bcg_font{
+  position: absolute;
+  right:0px;
+  top: -65px;
+  z-index: -1;
+  white-space:nowrap;
+  color:#D62828;
+  width: 100%;
+  height: 500px;
+  text-align: center
+}
+
+section > .bcg_font > p{
+    font-family: "HelveticaNeue-CondensedBold";
+    font-weight: 900;
+    user-select: none;
+    transform: rotate(-17.5deg);
+}
+
+section > .bcg_font > p:nth-child(1){
+  font-size: 27px;
+  line-height: 27px;
+}
+
+section > .bcg_font > p:nth-child(2){
+  font-size: 10.5px;
+  line-height: 10.5px;
+}
+
+section > .bcg_font > p:nth-child(3){
+  font-size: 22px;
+  line-height: 22px;
+}
+
+section > .bcg_font > p:nth-child(4){
+  font-size: 52px;
+  line-height: 52px;
+}
+
+section > .bcg_font > p:nth-child(5){
+  font-size: 33px;
+  line-height: 33px;
+}
+
+section > .bcg_font > p:nth-child(6){
+  font-size: 103px;
+  line-height: 85px;
+}
+
+section > .bcg_image{
+  position: absolute;
+  bottom: 13vh;
+  z-index: -2;
+  width: 100%;
+  height:92vh;
+  /* -webkit-clip-path: polygon(0 73.5%, 100% 0, 100% 100%, 0% 100%);
+  clip-path: polygon(0 73.5%, 100% 0, 100% 100%, 0% 100%); */
+  /* background-image:
+  url("../images/02/background.jpg"); */
+  /* background-color: #D62828; */
+  background-blend-mode: overlay;
+  background-position:200px!important;
+  background-size: 120% !important;
+}
+
+section > .singer{
+  position: absolute;
+  z-index: 2;
+  bottom: 0px;
+  left: 23%;
+  /* background: url("../images/02/singer.png") no-repeat center bottom; */
+  height: 570px;
+  width: 570px;
+  background-size: contain!important;
+}
+
+section > .bcg_image > .info{
+  margin-top: 186px;
+  float: right;
+  width: 32%;
+  height: 370px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-right: 7%;
+}
+
+section > .bcg_image > .info > p{
+  font-family: "Helvetica";
+  font-size: 14px;
+  font-weight: 100;
+  width: 100%;
+  color: white;
+  display: inline-block;
+  text-align:justify;
+}
+
+/* section > .bcg_image > .info > button{
+  float: right;
+  width: 100px;
+  height: 24px;
+  margin-top: 1em;
+  border: none;
+  font-weight: bold;
+  font-size: 18px;
+  color: #D62828;
+  outline: none;
+} */
+
+/* section > .bcg_image > .info > button:hover{
+  color: #00314a;
+} */
+
+section > .bcg_image > .info >ul{
+  align-self: flex-end;
+}
+section > .bcg_image > .info >ul >li{
+  list-style: none;
+  float: left;
+  padding-bottom: 7px;
+  margin-left: 15px;
+}
+
+section > .bcg_image > .info h3{
+  color: #ffffff;
+  margin-top: 1em;
+  user-select: none;
+}
+
+section > .bcg_image > .info h3:hover{
+  border-bottom: 2px solid white;
+}
+
+
+aside{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 33.4%;
+}
+
+aside > .singer_head{
+  background-color: #D62828;
+  height: 7vh;
+}
+
+aside > .singer_list{
+  overflow: hidden;
+  height: 80vh;
+  width: 100%;
+  background-color: #fff4f4;
+}
+
+aside > .singer_list ul{
+  list-style: none;
+}
+
+aside >.singer_list ul > li{
+  float: right;
+  width: 320px;
+  height: 80px;
+  line-height: 80px;
+  font-weight: bold;
+  font-size: 16px;
+  color: #353535;
+}
+
+aside >.singer_list ul > .singer_info:hover{
+  background-color: rgb(255, 230, 230);
+}
+
+aside >.singer_list ul > li > .singer_img{
+  margin: 20px;
+  float: left;
+  width: 40px;
+  height: 40px;
+  /* background: url("../images/01/singer_photo.jpg"); */
+  background-size: cover!important;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  height: 13vh;
+  width: 100%;
+  background-color: #00314a;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer > .control {
+  display: flex;
+  align-items: center;
+  width: 33.4%;
+  margin-left: 100px;
+}
+
+footer > .control > span{
+  float: left;
+  margin: 12px;
+}
+
+footer > .control >span:nth-child(1) {
+  width: 27px;
+  height: 27px;
+  background:url("../images/icons/pre.png") no-repeat;
+  background-size: 100%;
+}
+
+footer > .control >span:nth-child(2) {
+  width: 55px;
+  height: 55px;
+  background:url("../images/icons/play.png") no-repeat;
+  background-size: 100%;
+}
+
+footer > .control > .pause{
+  width: 55px;
+  height: 55px;
+  background:url("../images/icons/pause.png") no-repeat!important;
+  background-size: 100%!important;
+}
+
+footer > .control >span:nth-child(3) {
+  width: 27px;
+  height: 27px;
+
+  background:url("../images/icons/next.png") no-repeat;
+  background-size: 100%;
+}
+
+footer > .progress{
+  margin-right: 7%;
+  width: 420px;
+  z-index: 3;
+}
+
+footer > .progress > span{
+  margin-bottom: 10px;
+  color: #FFFFFF;
+  font-size: 10px
+}
+
+footer > .progress > span:nth-child(1){
+  float: left;
+}
+footer > .progress > span:nth-child(2){
+  float: right;
+}
+
+
+footer > .progress > .progress_line{
+  background-color: #598392;
+  width: 100%;
+  height: 8px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+
+footer > .progress > .progress_line > .progress_bar{
+  background-color: #D62828;
+  width: 0%;
+  height: 100%;
+
+}
+
+footer > .progress > .progress_line > .progress_dot{
+  position: absolute;
+  margin-left: -1px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #D62828;
+}
+
+footer > .fa-bars {
+  display: none;
+}
+
+.mCSB_dragger_bar{
+  background-color: #353535!important
+}
